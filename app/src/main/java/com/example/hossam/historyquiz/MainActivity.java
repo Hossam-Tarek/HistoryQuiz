@@ -38,9 +38,8 @@ public class MainActivity extends AppCompatActivity
     private void checkQuestionOne()
     {
         EditText editText = findViewById(R.id.question_one_answer);
-        int year = Integer.parseInt(editText.getText().toString());
 
-        if (year == 1914)
+        if (editText.getText().toString().equals("1914"))
             score++;
     }
 
