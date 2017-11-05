@@ -24,11 +24,14 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="@string/hint"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
             android:inputType="number"/>
 
         <View
             android:layout_width="match_parent"
             android:layout_height="1dp"
+            android:layout_marginTop="16dp"
             android:background="@android:color/darker_gray"/>
 
         <TextView
@@ -45,21 +48,25 @@
             android:orientation="vertical">
 
             <RadioButton
+                style="@style/AnswerStyle"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/question_two_first_answer"/>
 
             <RadioButton
+                style="@style/AnswerStyle"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/question_two_second_answer"/>
 
             <RadioButton
+                style="@style/AnswerStyle"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/question_two_third_answer"/>
 
             <RadioButton
+                style="@style/AnswerStyle"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/question_two_fourth_answer"/>
@@ -69,6 +76,7 @@
         <View
             android:layout_width="match_parent"
             android:layout_height="1dp"
+            android:layout_marginTop="16dp"
             android:background="@android:color/darker_gray"/>
 
         <TextView
@@ -85,21 +93,25 @@
             android:orientation="vertical">
 
             <RadioButton
+                style="@style/AnswerStyle"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/question_three_first_answer"/>
 
             <RadioButton
+                style="@style/AnswerStyle"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/question_three_second_answer"/>
 
             <RadioButton
+                style="@style/AnswerStyle"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/question_three_third_answer"/>
 
             <RadioButton
+                style="@style/AnswerStyle"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/question_three_fourth_answer"/>
@@ -109,6 +121,7 @@
         <View
             android:layout_width="match_parent"
             android:layout_height="1dp"
+            android:layout_marginTop="16dp"
             android:background="@android:color/darker_gray"/>
 
         <TextView
@@ -125,21 +138,25 @@
             android:orientation="vertical">
 
             <RadioButton
+                style="@style/AnswerStyle"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/question_four_first_answer"/>
 
             <RadioButton
+                style="@style/AnswerStyle"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/question_four_second_answer"/>
 
             <RadioButton
+                style="@style/AnswerStyle"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/question_four_third_answer"/>
 
             <RadioButton
+                style="@style/AnswerStyle"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/question_four_fourth_answer"/>
@@ -149,6 +166,7 @@
         <View
             android:layout_width="match_parent"
             android:layout_height="1dp"
+            android:layout_marginTop="16dp"
             android:background="@android:color/darker_gray"/>
 
         <TextView
@@ -160,21 +178,25 @@
             android:text="@string/question_five"/>
 
         <CheckBox
+            style="@style/AnswerStyle"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/question_five_first_answer"/>
 
         <CheckBox
+            style="@style/AnswerStyle"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/question_five_second_answer"/>
 
         <CheckBox
+            style="@style/AnswerStyle"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/question_five_third_answer"/>
 
         <CheckBox
+            style="@style/AnswerStyle"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/question_five_fourth_answer"/>
@@ -182,6 +204,7 @@
         <View
             android:layout_width="match_parent"
             android:layout_height="1dp"
+            android:layout_marginTop="16dp"
             android:background="@android:color/darker_gray"/>
 
         <TextView
@@ -198,21 +221,25 @@
             android:orientation="vertical">
 
             <RadioButton
+                style="@style/AnswerStyle"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/question_six_first_answer"/>
 
             <RadioButton
+                style="@style/AnswerStyle"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/question_six_second_answer"/>
 
             <RadioButton
+                style="@style/AnswerStyle"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/question_six_third_answer"/>
 
             <RadioButton
+                style="@style/AnswerStyle"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/question_six_fourth_answer"/>
