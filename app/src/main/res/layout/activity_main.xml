@@ -26,6 +26,11 @@
             android:hint="@string/hint"
             android:inputType="number"/>
 
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@android:color/darker_gray"/>
+
         <TextView
             style="@style/QuestionHeaderStyle"
             android:text="@string/question_two_title"/>
@@ -60,6 +65,11 @@
                 android:text="@string/question_two_fourth_answer"/>
 
         </RadioGroup>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@android:color/darker_gray"/>
 
         <TextView
             style="@style/QuestionHeaderStyle"
@@ -96,6 +106,11 @@
 
         </RadioGroup>
 
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@android:color/darker_gray"/>
+
         <TextView
             style="@style/QuestionHeaderStyle"
             android:text="@string/question_four_title"/>
@@ -131,6 +146,11 @@
 
         </RadioGroup>
 
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@android:color/darker_gray"/>
+
         <TextView
             style="@style/QuestionHeaderStyle"
             android:text="@string/question_five_title"/>
@@ -158,6 +178,11 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/question_five_fourth_answer"/>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@android:color/darker_gray"/>
 
         <TextView
             style="@style/QuestionHeaderStyle"
