@@ -9,16 +9,15 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:orientation="vertical">
+        android:orientation="vertical"
+        android:padding="16dp">
 
         <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            style="@style/QuestionHeaderStyle"
             android:text="@string/question_one_title"/>
 
         <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            style="@style/QuestionStyle"
             android:text="@string/question_one"/>
 
         <EditText
@@ -28,13 +27,11 @@
             android:inputType="number"/>
 
         <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            style="@style/QuestionHeaderStyle"
             android:text="@string/question_two_title"/>
 
         <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            style="@style/QuestionStyle"
             android:text="@string/question_two"/>
 
         <RadioGroup
@@ -65,13 +62,11 @@
         </RadioGroup>
 
         <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            style="@style/QuestionHeaderStyle"
             android:text="@string/question_three_title"/>
 
         <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            style="@style/QuestionStyle"
             android:text="@string/question_three"/>
 
         <RadioGroup
@@ -102,13 +97,11 @@
         </RadioGroup>
 
         <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            style="@style/QuestionHeaderStyle"
             android:text="@string/question_four_title"/>
 
         <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            style="@style/QuestionStyle"
             android:text="@string/question_four"/>
 
         <RadioGroup
@@ -139,13 +132,11 @@
         </RadioGroup>
 
         <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            style="@style/QuestionHeaderStyle"
             android:text="@string/question_five_title"/>
 
         <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            style="@style/QuestionStyle"
             android:text="@string/question_five"/>
 
         <CheckBox
@@ -169,13 +160,11 @@
             android:text="@string/question_five_fourth_answer"/>
 
         <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            style="@style/QuestionHeaderStyle"
             android:text="@string/question_six_title"/>
 
         <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            style="@style/QuestionStyle"
             android:text="@string/question_six"/>
 
         <RadioGroup
