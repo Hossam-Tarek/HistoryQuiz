@@ -1,0 +1,121 @@
+<resources xmlns:Xliff="http://schemas.android.com/tools">
+    <string name="app_name">History Quiz</string>
+
+    <!-- The title of first question -->
+    <string name="question_one_title">السؤال الاول</string>
+
+    <!-- This is the first question -->
+    <string name="question_one">في اي عام بدأت الحرب العالمية الاولي؟</string>
+
+    <!-- The title of second question -->
+    <string name="question_two_title">السؤال الثاني</string>
+
+    <!-- This is the second question -->
+    <string name="question_two">في اي دولة ولد ادولف هتلر؟</string>
+
+    <!-- The title of third question -->
+    <string name="question_three_title">السؤال الثالث</string>
+
+    <!-- This is the third question -->
+    <string name="question_three">جون كينيدي اغتيل في؟</string>
+
+    <!-- The title of 4th question -->
+    <string name="question_four_title">السؤال الرابع</string>
+
+    <!-- This is the 4th question -->
+    <string name="question_four">
+        في اي عقد شاركت امريكا في الحرب الكورية؟
+    </string>
+
+    <!-- The title of the 5th question -->
+    <string name="question_five_title">السؤال الخامس</string>
+
+    <!-- This is the 5th question -->
+    <string name="question_five">
+        المرض الذي قتل ثلث سكان اوروبا في القرن الرابع عشر يعرف بأسم؟
+    </string>
+
+    <!-- The title of 6th question -->
+    <string name="question_six_title">السؤال السادس</string>
+
+    <!-- This is the 6th question -->
+    <string name="question_six">
+        حرب المائة عام كانت بين الدولتين؟
+    </string>
+
+    <!-- Hint text to make the user enter a year -->
+    <string name="hint">ادخل العام</string>
+
+    <!-- First answer of question two -->
+    <string name="question_two_first_answer">فرنسا</string>
+
+    <!-- Second answer of question two -->
+    <string name="question_two_second_answer">المنيا</string>
+
+    <!-- Third answer of question two -->
+    <string name="question_two_third_answer">النمسا</string>
+
+    <!-- Fourth answer of question two -->
+    <string name="question_two_fourth_answer">هنغاريا</string>
+
+    <!-- First answer of question three -->
+    <string name="question_three_first_answer">نيويورك</string>
+
+    <!-- Second answer of question three -->
+    <string name="question_three_second_answer">أوستن</string>
+
+    <!-- Third answer of question three -->
+    <string name="question_three_third_answer">دالاس</string>
+
+    <!-- Fourth answer of question three -->
+    <string name="question_three_fourth_answer">لاس فيجاس</string>
+
+    <!-- First answer of question four -->
+    <string name="question_four_first_answer">1940s</string>
+
+    <!-- Second answer of question four -->
+    <string name="question_four_second_answer">1950s</string>
+
+    <!-- Third answer of question four -->
+    <string name="question_four_third_answer">1960s</string>
+
+    <!-- Fourth answer of question four -->
+    <string name="question_four_fourth_answer">1970s</string>
+
+    <!-- First answer of question five -->
+    <string name="question_five_first_answer">الموت الابيض</string>
+
+    <!-- Second answer of question five -->
+    <string name="question_five_second_answer">الطاعون الاسود</string>
+
+    <!-- Third answer of question five -->
+    <string name="question_five_third_answer">الموت الاسود</string>
+
+    <!-- Fourth answer of question five -->
+    <string name="question_five_fourth_answer">الطاعون الدبلي</string>
+
+    <!-- First answer of question six -->
+    <string name="question_six_first_answer">ايطاليا و قرطاج</string>
+
+    <!-- Second answer of question six -->
+    <string name="question_six_second_answer">انجلترا و ألمانيا</string>
+
+    <!-- Third answer of question six -->
+    <string name="question_six_third_answer">فرنسا و انجلترا</string>
+
+    <!-- Fourth answer of question six -->
+    <string name="question_six_fourth_answer">اسبانيا و فرنسا</string>
+
+    <!-- Text of button to submit answer -->
+    <string name="submit">اكد الاجابة</string>
+
+    <!-- Message to let the user know his score in the format of "You scored 4 out of 6" -->
+    <string name="toast_message">انت سجلت <Xliff:g id="score" example="4">%d</Xliff:g> من 6</string>
+
+</resources>
+
+
+
+
+
+
