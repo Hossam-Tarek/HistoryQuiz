@@ -43,4 +43,73 @@
         The hundred years war was fought between what two countries?
     </string>
 
+    <!-- Hint text to make the user enter a year -->
+    <string name="hint">Enter the year</string>
+
+    <!-- First answer of question two -->
+    <string name="question_two_first_answer">France</string>
+
+    <!-- Second answer of question two -->
+    <string name="question_two_second_answer">Germany</string>
+
+    <!-- Third answer of question two -->
+    <string name="question_two_third_answer">Austria</string>
+
+    <!-- Fourth answer of question two -->
+    <string name="question_two_fourth_answer">Hungary</string>
+
+    <!-- First answer of question three -->
+    <string name="question_three_first_answer">New York</string>
+
+    <!-- Second answer of question three -->
+    <string name="question_three_second_answer">Austin</string>
+
+    <!-- Third answer of question three -->
+    <string name="question_three_third_answer">Dallas</string>
+
+    <!-- Fourth answer of question three -->
+    <string name="question_three_fourth_answer">Las Vegas</string>
+
+    <!-- First answer of question four -->
+    <string name="question_four_first_answer">1940s</string>
+
+    <!-- Second answer of question four -->
+    <string name="question_four_second_answer">1950s</string>
+
+    <!-- Third answer of question four -->
+    <string name="question_four_third_answer">1960s</string>
+
+    <!-- Fourth answer of question four -->
+    <string name="question_four_fourth_answer">1970s</string>
+
+    <!-- First answer of question five -->
+    <string name="question_five_first_answer">The White Death</string>
+
+    <!-- Second answer of question five -->
+    <string name="question_five_second_answer">The Black Plague</string>
+
+    <!-- Third answer of question five -->
+    <string name="question_five_third_answer">The Black Death</string>
+
+    <!-- Fourth answer of question five -->
+    <string name="question_five_fourth_answer">The Bubonic Plague</string>
+
+    <!-- First answer of question six -->
+    <string name="question_six_first_answer">Italy and Carthage</string>
+
+    <!-- Second answer of question six -->
+    <string name="question_six_second_answer">England and Germany</string>
+
+    <!-- Third answer of question six -->
+    <string name="question_six_third_answer">France and England</string>
+
+    <!-- Fourth answer of question six -->
+    <string name="question_six_fourth_answer">Spain and France</string>
+
 </resources>
+
+
+
+
+
+
