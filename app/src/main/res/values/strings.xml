@@ -5,7 +5,7 @@
     <string name="question_one_title">Question 1</string>
 
     <!-- This is the first question -->
-    <string name="question_one">World War 1 began in which year?</string>
+    <string name="question_one">In which year World War One began?</string>
 
     <!-- The title of second question -->
     <string name="question_two_title">Question 2</string>
