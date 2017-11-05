@@ -106,6 +106,9 @@
     <!-- Fourth answer of question six -->
     <string name="question_six_fourth_answer">Spain and France</string>
 
+    <!-- Text of button to submit answer -->
+    <string name="submit">Submit answer</string>
+
 </resources>
 
 
