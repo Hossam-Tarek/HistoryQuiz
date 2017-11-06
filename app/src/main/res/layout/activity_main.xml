@@ -52,29 +52,21 @@
             <RadioButton
                 android:id="@+id/radio_group_question_two_first_answer"
                 style="@style/AnswerStyle"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
                 android:text="@string/question_two_first_answer"/>
 
             <RadioButton
                 android:id="@+id/radio_group_question_two_second_answer"
                 style="@style/AnswerStyle"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
                 android:text="@string/question_two_second_answer"/>
 
             <RadioButton
                 android:id="@+id/radio_group_question_two_third_answer"
                 style="@style/AnswerStyle"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
                 android:text="@string/question_two_third_answer"/>
 
             <RadioButton
                 android:id="@+id/radio_group_question_two_fourth_answer"
                 style="@style/AnswerStyle"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
                 android:text="@string/question_two_fourth_answer"/>
 
         </RadioGroup>
@@ -102,29 +94,21 @@
             <RadioButton
                 android:id="@+id/radio_group_question_three_first_answer"
                 style="@style/AnswerStyle"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
                 android:text="@string/question_three_first_answer"/>
 
             <RadioButton
                 android:id="@+id/radio_group_question_three_second_answer"
                 style="@style/AnswerStyle"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
                 android:text="@string/question_three_second_answer"/>
 
             <RadioButton
                 android:id="@+id/radio_group_question_three_third_answer"
                 style="@style/AnswerStyle"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
                 android:text="@string/question_three_third_answer"/>
 
             <RadioButton
                 android:id="@+id/radio_group_question_three_fourth_answer"
                 style="@style/AnswerStyle"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
                 android:text="@string/question_three_fourth_answer"/>
 
         </RadioGroup>
@@ -152,29 +136,21 @@
             <RadioButton
                 android:id="@+id/radio_group_question_four_first_answer"
                 style="@style/AnswerStyle"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
                 android:text="@string/question_four_first_answer"/>
 
             <RadioButton
                 android:id="@+id/radio_group_question_four_second_answer"
                 style="@style/AnswerStyle"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
                 android:text="@string/question_four_second_answer"/>
 
             <RadioButton
                 android:id="@+id/radio_group_question_four_third_answer"
                 style="@style/AnswerStyle"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
                 android:text="@string/question_four_third_answer"/>
 
             <RadioButton
                 android:id="@+id/radio_group_question_four_fourth_answer"
                 style="@style/AnswerStyle"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
                 android:text="@string/question_four_fourth_answer"/>
 
         </RadioGroup>
@@ -196,29 +172,21 @@
         <CheckBox
             android:id="@+id/checkbox_question_five_first_answer"
             style="@style/AnswerStyle"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
             android:text="@string/question_five_first_answer"/>
 
         <CheckBox
             android:id="@+id/checkbox_question_five_second_answer"
             style="@style/AnswerStyle"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
             android:text="@string/question_five_second_answer"/>
 
         <CheckBox
             android:id="@+id/checkbox_question_five_third_answer"
             style="@style/AnswerStyle"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
             android:text="@string/question_five_third_answer"/>
 
         <CheckBox
             android:id="@+id/checkbox_question_five_fourth_answer"
             style="@style/AnswerStyle"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
             android:text="@string/question_five_fourth_answer"/>
 
         <View
@@ -244,29 +212,21 @@
             <RadioButton
                 android:id="@+id/radio_group_question_six_first_answer"
                 style="@style/AnswerStyle"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
                 android:text="@string/question_six_first_answer"/>
 
             <RadioButton
                 android:id="@+id/radio_group_question_six_second_answer"
                 style="@style/AnswerStyle"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
                 android:text="@string/question_six_second_answer"/>
 
             <RadioButton
                 android:id="@+id/radio_group_question_six_third_answer"
                 style="@style/AnswerStyle"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
                 android:text="@string/question_six_third_answer"/>
 
             <RadioButton
                 android:id="@+id/radio_group_question_six_fourth_answer"
                 style="@style/AnswerStyle"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
                 android:text="@string/question_six_fourth_answer"/>
 
         </RadioGroup>
