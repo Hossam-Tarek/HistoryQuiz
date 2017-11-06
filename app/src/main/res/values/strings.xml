@@ -2,25 +2,25 @@
     <string name="app_name">History Quiz</string>
     
     <!-- The title of first question -->
-    <string name="question_one_title">Question 1</string>
+    <string name="question_one_title">First Question</string>
 
     <!-- This is the first question -->
     <string name="question_one">In which year World War One began?</string>
 
     <!-- The title of second question -->
-    <string name="question_two_title">Question 2</string>
+    <string name="question_two_title">Second Question</string>
 
     <!-- This is the second question -->
     <string name="question_two">Adolf Hitler was born in which country?</string>
 
     <!-- The title of third question -->
-    <string name="question_three_title">Question 3</string>
+    <string name="question_three_title">Third Question</string>
 
     <!-- This is the third question -->
     <string name="question_three">John F.Kennedy was assassinated in?</string>
 
     <!-- The title of 4th question -->
-    <string name="question_four_title">Question 4</string>
+    <string name="question_four_title">Fourth Question</string>
 
     <!-- This is the 4th question -->
     <string name="question_four">
@@ -28,15 +28,15 @@
     </string>
 
     <!-- The title of the 5th question -->
-    <string name="question_five_title">Question 5</string>
+    <string name="question_five_title">Fifth Question</string>
 
     <!-- This is the 5th question -->
     <string name="question_five">
-        The disease that ravaged and killed a third of Europe\'s population in the 14th century is known as?
+        The disease that killed a third of Europe\'s population in the 14th century is known as?
     </string>
 
     <!-- The title of 6th question -->
-    <string name="question_six_title">Question 6</string>
+    <string name="question_six_title">Sixth Question</string>
 
     <!-- This is the 6th question -->
     <string name="question_six">
@@ -95,7 +95,7 @@
     <string name="question_five_fourth_answer">The Bubonic Plague</string>
 
     <!-- First answer of question six -->
-    <string name="question_six_first_answer">Italy and Carthage</string>
+    <string name="question_six_first_answer">Italy and Spain</string>
 
     <!-- Second answer of question six -->
     <string name="question_six_second_answer">England and Germany</string>
@@ -110,7 +110,7 @@
     <string name="submit">Submit answer</string>
 
     <!-- Message to let the user know his score in the format of "You scored 4 out of 6" -->
-    <string name="toast_message">You scored <Xliff:g id="score" example="4">%d</Xliff:g> out of 6</string>
+    <string name="toast_message">You scored <Xliff:g example="4">%1s</Xliff:g> out of 6</string>
 
 </resources>
 

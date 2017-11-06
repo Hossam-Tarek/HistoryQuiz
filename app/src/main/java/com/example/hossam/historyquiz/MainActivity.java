@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity
     public void submitOrder(View view)
     {
         calculateScore();
-        Toast.makeText(this, getString(R.string.toast_message, score), Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, getString(R.string.toast_message, ""+score), Toast.LENGTH_SHORT).show();
     }
 
     private void calculateScore()
