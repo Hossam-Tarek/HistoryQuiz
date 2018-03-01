@@ -103,8 +103,11 @@
     <!-- Text of button to submit answer -->
     <string name="submit">اجب علي الاسئلة</string>
 
+    <!-- Message to notify the user that all answers are correct -->
+    <string name="toast_message">احسنت كل الاجابات صحيحة</string>
+
     <!-- Message to let the user know his score in the format of "You scored 4 out of 6" -->
-    <string name="toast_message">انت سجلت <Xliff:g example="4">%1s</Xliff:g> من 6</string>
+    <string name="toast_message_2">انت سجلت <Xliff:g example="4">%1s</Xliff:g> من 6</string>
 
 </resources>
 

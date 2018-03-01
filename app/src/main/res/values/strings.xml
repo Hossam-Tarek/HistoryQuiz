@@ -109,8 +109,11 @@
     <!-- Text of button to submit answer -->
     <string name="submit">Submit answer</string>
 
+    <!-- Message to notify the user that all answers are correct -->
+    <string name="toast_message">Well done all answers are correct</string>
+
     <!-- Message to let the user know his score in the format of "You scored 4 out of 6" -->
-    <string name="toast_message">You scored <Xliff:g example="4">%1s</Xliff:g> out of 6</string>
+    <string name="toast_message_2">You scored <Xliff:g example="4">%1s</Xliff:g> out of 6</string>
 
 </resources>
 
